@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cardiocodes
 - 👀 I’m interested in changing my career
 - 🌱 I’m currently learning HTML, CSS and JS!
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, drop me a message.
 
 <!---
